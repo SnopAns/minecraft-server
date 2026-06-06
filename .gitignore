@@ -17,3 +17,5 @@ tgauth_backups/
 # Jars
 *.jar
 /mods/*.jar
+!/mods/tgauth-*.jar
+!/mods/inventoryrollback-*.jar
