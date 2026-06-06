@@ -1,0 +1,7 @@
+{
+  "maxDeathsSaved": 50,
+  "maxJoinsSaved": 10,
+  "maxQuitsSaved": 10,
+  "maxWorldChangesSaved": 10,
+  "maxManualsSaved": 10
+}

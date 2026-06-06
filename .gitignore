@@ -1,0 +1,19 @@
+# Minecraft Server GitIgnore
+world/
+logs/
+libraries/
+versions/
+.fabric/
+crash-reports/
+
+# Databases & caches
+usercache.json
+tgauth_players.json
+banned-ips.json
+banned-players.json
+whitelist.json
+tgauth_backups/
+
+# Jars
+*.jar
+/mods/*.jar
