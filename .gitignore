@@ -13,6 +13,9 @@ banned-ips.json
 banned-players.json
 whitelist.json
 tgauth_backups/
+config/tgauth.json
+config/tgauth.json.bak
+config/tgauth.json.local
 
 # Jars
 *.jar
